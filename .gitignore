@@ -1,2 +1,11 @@
-Post-hoc\LIME\LIMEvenv
-Post-hoc\SHAP\.venv
+# Ignore LIME virtual environment
+Post-hoc/LIME/LIMEvenv/
+
+# Ignore SHAP virtual environment
+Post-hoc/SHAP/.venv/
+
+# Ignore datasets folder in ProtoPNet project
+ProtoPNet_Project/datasets/
+ProtoPNet_Project/CUB_200_2011
+ProtoPNet_Project/CUB_200_2011_cropped
+ProtoPNet_Project/CUB_200_2011_cropped_split
